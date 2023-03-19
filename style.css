@@ -1,0 +1,48 @@
+body {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+p,
+h3 {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+button {
+  background-color: transparent;
+  border: 2px solid black;
+  color: black;
+  padding: 10px 35px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+}
+
+.button:hover {
+  background-color: black;
+  color: white;
+}
+#container {
+	height: 500px;
+	display: flex;
+	align-items: flex-end;
+}
+
+.bar {
+	width: 10px;
+	margin: 1.5px;
+	background-color: black;
+}
+
+.speed-section {
+	margin-top: 15px;
+	text-align: center;
+}
