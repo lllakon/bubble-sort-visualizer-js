@@ -1,1 +1,1 @@
-## Bubble sorting visualizer in JavaScriprt, with sound
+## Bubble sorting visualizer with sound. Native JavaScript.
